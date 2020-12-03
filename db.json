@@ -1,0 +1,58 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some  stream",
+      "id": 2
+    },
+    {
+      "title": "I also created this",
+      "description": "This was also created by me (edited)",
+      "id": 3
+    },
+    {
+      "title": "Edited Create Ulit",
+      "description": "Edited Nulla et finibus magna. Phasellus tempus rhoncus lorem, vitae consequat eros hendrerit in. Pellentesque efficitur dictum leo, vel porttitor orci sollicitudin vitae. Integer fermentum cursus nunc, non suscipit felis maximus sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "userId": "103704487826529615655",
+      "id": 6
+    }
+  ],
+
+  "vehicles": [
+    {
+      "vehicle": "Car",
+      "ownerName": "Jason",
+      "details": "This is a great car"
+    },
+    {
+      "vehicle": "Bike",
+      "ownerName": "Jv",
+      "details": "This is a great bike"
+    },
+    {
+      "vehicle": "Truck",
+      "ownerName": "Ian",
+      "details": "This is a great truck"
+    },
+    {
+      "vehicle": "Sports Car",
+      "ownerName": "Eric",
+      "details": "This is a great Sports Car"
+    },
+    {
+      "vehicle": "Boat",
+      "ownerName": "Jem",
+      "details": "This is a great Boat"
+    },
+    {
+      "vehicle": "Jet",
+      "ownerName": "Enzo",
+      "details": "This is a great Jet"
+    }
+  ]
+}
